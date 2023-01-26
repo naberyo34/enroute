@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "object-assign": "^4.0.1",
-    "path-to-regexp": "^1.2.1"
+    "path-to-regexp": "1.2.1"
   },
   "devDependencies": {
     "mocha": "*",
